@@ -6,6 +6,7 @@
     <title>Pembelian</title>
 </head>
 <body>
+    <button>Tambah Pembelian</button>
     <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel repellat tempora rem alias esse debitis dolore quod! Et animi voluptatibus quas eveniet reiciendis quod minus, illo consectetur minima placeat est?</h1>
 </body>
 </html>
