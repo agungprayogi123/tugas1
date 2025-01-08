@@ -20,7 +20,12 @@ $result = $conn->query("SELECT * FROM tabel ORDER BY id DESC"); // Tambahkan ORD
 <body>
 <div class="container mt-5">
     <h3 class="mb-4">Stok Barang</h3>
+    
+    <!-- Tambahkan menu Kasir -->
+    <a href="kasir.php" class="btn btn-primary mb-3">Menu Kasir</a>
+    
     <a href="tambah.php" class="btn btn-success mb-3">Tambah Barang</a>
+    
     <table class="table table-bordered">
         <thead>
             <tr>
